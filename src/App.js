@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      THIS IF FRONTEND
+      IRATURORA JULIE
     </div>
   );
 }
